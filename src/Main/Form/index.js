@@ -20,7 +20,6 @@ const Forms = () => {
     handleSubmit,
     errors,
     formState,
-
     control,
   } = useForm();
   const onSubmit = (date) => console.log(date);
