@@ -1,3 +1,27 @@
+# ReactJs + Redux + ChakraUi + Styled-Components
+
+#Descrição do Projeto
+
+Apenas um projeto utilizando Reactjs, para aprendizado em Redux e ChakraUi e Form. o projeto conta com um formulario simples, e Styled-Components para a mudanças de tema, alterando em dark e light. 
+
+:construction: Projeto em construção :construction:
+
+# :hammer: Funcionalidades do projeto
+
+- `Light/Dark`: Um botão para a troca de tema, entre Dark e Light.
+- `Formulario`: Um formulario de forma simples, para aprendizado de uso de Forms, como mensagem de erro e ChakraUi para design interno.
+
+# HardSkills:
+## Front
+  <li>ReactjS </li> 
+  <li>Redux</>
+  <li>JS</li>
+  <li>CSS</>
+  <li>HTML</>
+  <li>Styled-Components</>
+  <li>ChakraUi</>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
